@@ -1,5 +1,5 @@
 # 📌 Nikhil Deka  
-🚀 **Aspiring Data Scientist | ML Engineer | Generative AI & Big Data Enthusiast**  
+🚀 **Data Science | ML Engineer | Generative AI & Big Data Enthusiast**  
 📍 **Indian Institute of Technology, Guwahati | 2023 - 2027**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikhildeka/)  
