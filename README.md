@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 - 🎓 **Pre-Final Yearite** at IIT Guwahati, specializing in Data Science and AI, ML & Big Data**.  
-- 🔥 Passionate about **ML System Design, Scalable AI, and Data Engineering**.  
+- 🔥 Passionate about **ML System Design, Scalable AI, and Backend Developement(Golang)**.  
 - 🌱 Expanding expertise in **Generative AI, LLM Fine-Tuning, and Distributed Computing**.  
 - 🏆 Preparing for **FAANG-level Data Science & ML Engineering roles**.  
 - 🚀 Focused on **building AI-powered, scalable, and production-ready solutions**.  
