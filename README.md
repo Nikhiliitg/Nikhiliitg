@@ -1,7 +1,8 @@
 # Nikhil Deka (Nik)
 
-ML Systems & Backend Engineering Student  
-Indian Institute of Technology, Guwahati (2023–2027)
+
+**Indian Institute of Technology, Guwahati (2023–2027)**
+ML Systems & Backend Engineering   
 
 I build learning-focused yet system-oriented projects spanning  
 **machine learning, backend engineering, and data infrastructure**.
