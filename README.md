@@ -104,7 +104,7 @@ contribute to open-source projects with strong engineering practices.
 ---
 
 ### LLM-Based Keyword Extraction & Semantic Search
-🔗 https://github.com/Nikhiliitg
+🔗 https://github.com/Nikhiliitg/Word_eXtraction_from_webpage
 
 - Engineered a hybrid extraction pipeline (KeyBERT, TF-IDF, LLM) using Playwright
 - Achieved **98% content retention** on JavaScript-heavy pages
